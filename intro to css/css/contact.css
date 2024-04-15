@@ -1,0 +1,32 @@
+ #body
+{width:100%;
+}
+#car
+{border-style:groove;
+background-color:#778899;
+height:730px;
+width:100%;
+}
+
+
+
+#car #top
+{
+
+
+height:auto;
+width:600PX;
+
+
+
+}
+
+#car #bot
+{
+margin-left:620px;
+height:auto;
+width:600px;margin-top:-420px;
+float:right;
+}
+
+

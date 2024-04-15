@@ -1,0 +1,43 @@
+#bodi
+{
+height:635PX;
+width:100%;
+
+margin-LEFT:;
+background-image:url(../img/wall.jg);
+}
+
+#bodi #logi
+{
+background-color:#C0C0C0;
+
+
+width:100%;
+border-style:groove;
+
+
+
+}
+
+#bodi #logi #info
+{
+height:auto;
+width:570px;
+margin-top:180px;
+margin-left:210px;
+background-color:#C0C0C0;
+}
+
+
+#logi #info #login
+{
+
+margin-top:30px;
+margin-left:40px;
+
+}
+ #bodi #pic
+{
+
+margin-left:70px;
+}
